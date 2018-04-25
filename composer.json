@@ -1,8 +1,8 @@
 {
-    "name": "golonka/bbcodeparser",
+    "name": "WifiProDev/bbcodeparser",
     "description": "Parse your BBCode easy with this library.",
     "keywords": ["bbcode", "parser", "laravel", "psr-1", "psr-2", "psr-4"],
-    "homepage": "http://github.com/golonka/bbcodeparser",
+    "homepage": "http://github.com/WifiProDev/bbcodeparser",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -20,7 +20,7 @@
         "squizlabs/php_codesniffer": "~2"
     },
     "autoload": {
-        "psr-4": {"Golonka\\BBCode\\": "src/"}
+        "psr-4": {"WifiProDev\\bbcodeparser\\": "src/"}
     },
     "minimum-stability": "stable"
 }
